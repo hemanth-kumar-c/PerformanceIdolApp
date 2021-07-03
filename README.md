@@ -1,4 +1,4 @@
-# PerformanceIdolApp
+# Performance Idol App
 Performance Idol App Implemented on CoreSpring.
 Here.
 Performer is a interface with abstract method perform()
